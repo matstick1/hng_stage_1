@@ -1,1 +1,1 @@
-web: gunicorn stage_1.wsgi:application
+web: build.sh
